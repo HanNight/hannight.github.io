@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-9-15 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+🆑 One short paper accepted to Findings of [EMNLP 2020](https://2020.emnlp.org/)!
