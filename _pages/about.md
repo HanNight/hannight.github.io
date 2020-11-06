@@ -6,7 +6,7 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: hw_pic1.jpg
+  image: hw_pic1.jpeg
   info: >
     <span class="post-description" style="font-size: 0.875rem;"><i class="fas fa-envelope"></i> h${lastname} [at] nyu.edu </span><br>
     <span class="post-description" style="font-size: 0.875rem;"><a href="https://github.com/HanNight" target="_blank" title="GitHub"><i class="fab fa-github-square"></i> Github </a></span><br>
