@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hi! I am an incoming MS student at [Computer Science Department](https://cs.nyu.edu/home/index.html) at [New York University](https://www.nyu.edu/). Before that, I received my bachelor's degree from [Tongji University](https://en.tongji.edu.cn/).
 
-I am currently an intern at [Microsoft Cognitive Services Research Group](https://www.microsoft.com/en-us/research/group/cognitive-services-research/), mentored by Dr. [Chenguang Zhu](https://www-cs.stanford.edu/people/cgzhu/). Previously, I spent some wonderful time as a research intern at Text Intelligence Lab @ Westlake University, advised by Prof. [Yue Zhang](https://frcchang.github.io/).
+I am currently an intern at [Microsoft Cognitive Services Research Group](https://www.microsoft.com/en-us/research/group/cognitive-services-research/), mentored by Dr. [Chenguang Zhu](https://www-cs.stanford.edu/people/cgzhu/) and Dr. [Yang Liu](https://nlp-yang.github.io/). Previously, I spent some wonderful time as a research intern at Text Intelligence Lab @ Westlake University, advised by Prof. [Yue Zhang](https://frcchang.github.io/).
 
 My research interests include Deep Learning in NLP, Sentence Semantics, Natural Language Generation, Dialogue System, and Language Modeling. I am open to academic collaborations and please drop me an email if you have a research proposal.
 
