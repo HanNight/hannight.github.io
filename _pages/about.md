@@ -9,8 +9,10 @@ profile:
   image: hw_pic1.jpeg
   info: >
     <span class="post-description" style="font-size: 0.875rem;"><i class="fas fa-envelope"></i> h${lastname} [at] nyu.edu </span><br>
+    <span class="post-description" style="font-size: 0.875rem;"><a href="https://scholar.google.com/citations?user=xA8AYqkAAAAJ&hl=en&oi=sra" target="_blank" title="Google_Scholar"><i class="ai ai-google-scholar-square"></i> Google Scholar </a></span><br>
     <span class="post-description" style="font-size: 0.875rem;"><a href="https://github.com/HanNight" target="_blank" title="GitHub"><i class="fab fa-github-square"></i> Github </a></span><br>
     <span class="post-description" style="font-size: 0.875rem;"><a href="https://twitter.com/HanWang98" target="_blank" title="Twitter"><i class="fab fa-twitter-square"></i> Twitter </a></span><br>
+
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
