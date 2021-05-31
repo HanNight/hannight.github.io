@@ -6,7 +6,7 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: hw_pic1.jpeg
+  image: hw_pic.jpeg
   info: >
     <span class="post-description" style="font-size: 0.875rem;"><i class="fas fa-envelope"></i> h${lastname} [at] nyu.edu </span><br>
     <span class="post-description" style="font-size: 0.875rem;"><a href="https://scholar.google.com/citations?user=xA8AYqkAAAAJ&hl=en&oi=sra" target="_blank" title="Google_Scholar"><i class="ai ai-google-scholar-square"></i> Google Scholar </a></span><br>
@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I am an incoming MS student at [Computer Science Department](https://cs.nyu.edu/home/index.html) at [New York University](https://www.nyu.edu/). Before that, I received my bachelor's degree from [Tongji University](https://en.tongji.edu.cn/).
+Hi! I am a MS student at [Computer Science Department](https://cs.nyu.edu/home/index.html) at [New York University](https://www.nyu.edu/). Before that, I received my bachelor's degree from [Tongji University](https://en.tongji.edu.cn/).
 
 I am currently an intern at [Microsoft Cognitive Services Research Group](https://www.microsoft.com/en-us/research/group/cognitive-services-research/), mentored by Dr. [Chenguang Zhu](https://www-cs.stanford.edu/people/cgzhu/) and Dr. [Yang Liu](https://nlp-yang.github.io/). Previously, I spent some wonderful time as a research intern at Text Intelligence Lab @ Westlake University, advised by Prof. [Yue Zhang](https://frcchang.github.io/).
 
