@@ -6,7 +6,7 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: hw_pic.jpeg
+  image: hw_pic.jpg
   info: >
     <span class="post-description" style="font-size: 0.875rem;"><i class="fas fa-envelope"></i> h${lastname} [at] nyu.edu </span><br>
     <span class="post-description" style="font-size: 0.875rem;"><a href="https://scholar.google.com/citations?user=xA8AYqkAAAAJ&hl=en&oi=sra" target="_blank" title="Google_Scholar"><i class="ai ai-google-scholar-square"></i> Google Scholar </a></span><br>
@@ -21,9 +21,13 @@ social: false  # includes social icons at the bottom of the page
 
 Hi! I am a MS student at [Computer Science Department](https://cs.nyu.edu/home/index.html) at [New York University](https://www.nyu.edu/). Before that, I received my bachelor's degree from [Tongji University](https://en.tongji.edu.cn/).
 
-I am currently an intern at [Microsoft Cognitive Services Research Group](https://www.microsoft.com/en-us/research/group/cognitive-services-research/), mentored by Dr. [Chenguang Zhu](https://www-cs.stanford.edu/people/cgzhu/) and Dr. [Yang Liu](https://nlp-yang.github.io/). Previously, I spent some wonderful time as a research intern at Text Intelligence Lab @ Westlake University, advised by Prof. [Yue Zhang](https://frcchang.github.io/).
+I am currently an intern at [NLC Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) in [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), mentored by Dr. [Lei Cui](https://www.microsoft.com/en-us/research/people/lecu/). Previously, I interned at [Microsoft Cognitive Services Research Group](https://www.microsoft.com/en-us/research/group/cognitive-services-research/) and [Westlake University](https://en.westlake.edu.cn/), where I was fortunate to work with Dr. [Chenguang Zhu](https://www-cs.stanford.edu/people/cgzhu/), Dr. [Yang Liu](https://nlp-yang.github.io/) and Prof. [Yue Zhang](https://frcchang.github.io/).
 
-My research interests include Deep Learning in NLP, Sentence Semantics, Natural Language Generation, Dialogue System, and Language Modeling. I am open to academic collaborations and please drop me an email if you have a research proposal.
+My research interests include Deep Learning in NLP, Knowledge-based NLP, and Natural Language Generation. I am open to academic collaborations and please drop me an email if you are interested in collaborating with me.
+
+##### **Service**
+- Program Committee Member: [EMNLP 2021](https://2021.emnlp.org/), [ACL 2021](https://2021.aclweb.org/), [COLING 2020](https://coling2020.org/)
+- Volunteer: [ACL 2020](https://acl2020.org/)
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
