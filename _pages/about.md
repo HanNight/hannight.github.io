@@ -8,10 +8,11 @@ profile:
   align: right
   image: hw_pic.jpg
   info: >
-    <span class="post-description" style="font-size: 0.875rem;"><i class="fas fa-envelope"></i> h${lastname} [at] nyu.edu </span><br>
-    <span class="post-description" style="font-size: 0.875rem;"><a href="https://scholar.google.com/citations?user=xA8AYqkAAAAJ&hl=en&oi=sra" target="_blank" title="Google_Scholar"><i class="ai ai-google-scholar-square"></i> Google Scholar </a></span><br>
-    <span class="post-description" style="font-size: 0.875rem;"><a href="https://github.com/HanNight" target="_blank" title="GitHub"><i class="fab fa-github-square"></i> Github </a></span><br>
-    <span class="post-description" style="font-size: 0.875rem;"><a href="https://twitter.com/HanWang98" target="_blank" title="Twitter"><i class="fab fa-twitter-square"></i> Twitter </a></span><br>
+    <span class="post-description" style="font-size: 0.875rem;"><i class="fas fa-envelope ai-fw"></i> h${lastname} [at] nyu.edu </span><br>
+    <span class="post-description" style="font-size: 0.875rem;"><a href="https://scholar.google.com/citations?user=xA8AYqkAAAAJ&hl=en&oi=sra" target="_blank" title="Google_Scholar"><i class="ai ai-google-scholar ai-fw"></i> Google Scholar </a></span><br>
+    <span class="post-description" style="font-size: 0.875rem;"><a href="https://www.semanticscholar.org/author/Han-Wang/144407394" target="_blank" title="Semantic_Scholar"><i class="ai ai-semantic-scholar ai-fw"></i> Semantic Scholar </a></span><br>
+    <span class="post-description" style="font-size: 0.875rem;"><a href="https://github.com/HanNight" target="_blank" title="GitHub"><i class="fab fa-github ai-fw"></i> Github </a></span><br>
+    <span class="post-description" style="font-size: 0.875rem;"><a href="https://twitter.com/HanWang98" target="_blank" title="Twitter"><i class="fab fa-twitter ai-fw"></i> Twitter </a></span><br>
 
 
 news: true  # includes a list of news items
@@ -19,14 +20,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a MS student at [Computer Science Department](https://cs.nyu.edu/home/index.html) at [New York University](https://www.nyu.edu/). Before that, I received my bachelor's degree from [Tongji University](https://en.tongji.edu.cn/).
+Hi! I am a MS student at [Computer Science Department](https://cs.nyu.edu/home/index.html) at [New York University](https://www.nyu.edu/). 
+Previously, I received my bachelor’s degree in computer science from [Tongji University](https://en.tongji.edu.cn/).
+I've spent time at [NLC Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) in [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (working with [Lei Cui](https://www.microsoft.com/en-us/research/people/lecu/)), and [Microsoft Cognitive Services Research Group](https://www.microsoft.com/en-us/research/group/cognitive-services-research/) (working with [Chenguang Zhu](https://www-cs.stanford.edu/people/cgzhu/) and [Yang Liu](https://nlp-yang.github.io/)), and [Westlake University](https://en.westlake.edu.cn/) (working with Prof. [Yue Zhang](https://frcchang.github.io/)).
 
-I am currently an intern at [NLC Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) in [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), mentored by Dr. [Lei Cui](https://www.microsoft.com/en-us/research/people/lecu/). Previously, I interned at [Microsoft Cognitive Services Research Group](https://www.microsoft.com/en-us/research/group/cognitive-services-research/) and [Westlake University](https://en.westlake.edu.cn/), where I was fortunate to work with Dr. [Chenguang Zhu](https://www-cs.stanford.edu/people/cgzhu/), Dr. [Yang Liu](https://nlp-yang.github.io/) and Prof. [Yue Zhang](https://frcchang.github.io/).
-
-My research interests include Deep Learning in NLP, Knowledge-based NLP, and Natural Language Generation. I am open to academic collaborations and please drop me an email if you are interested in collaborating with me.
+My research interests include Deep Learning in NLP, Knowledge-based NLP, and Natural Language Generation. I always pursue the balance of simplicity and effectiveness in NLP. I am open to academic collaborations and please drop me an email if you are interested in collaborating with me.
 
 ##### **Service**
-- Program Committee Member: [EMNLP 2021](https://2021.emnlp.org/), [ACL 2021](https://2021.aclweb.org/), [COLING 2020](https://coling2020.org/)
+- Program Committee Member: [ACL Rolling Review](https://aclrollingreview.org/), [EMNLP 2021](https://2021.emnlp.org/), [ACL 2021](https://2021.aclweb.org/), [COLING 2020](https://coling2020.org/)
 - Volunteer: [ACL 2020](https://acl2020.org/)
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
