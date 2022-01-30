@@ -57,6 +57,9 @@
       {% elsif entry.type == "inproceedings" %}
         <em>{{entry.booktitle}}</em>
       {% endif %}
+      {% if entry.award %}
+        <em style="color:#FF3636">{{entry.award}}</em>
+      {% endif %}
       <!-- {% if entry.year %}
         {{entry.year}}
       {% endif %} -->
