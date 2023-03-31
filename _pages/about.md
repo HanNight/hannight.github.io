@@ -20,14 +20,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a MS student at [Computer Science Department](https://cs.nyu.edu/home/index.html) at [New York University](https://www.nyu.edu/). 
+Hi! I am an incoming Ph.D. student at [University of North Carolina at Chapel Hill](https://www.unc.edu/), supervised by [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/).
+Now, I am a MS student at [Computer Science Department](https://cs.nyu.edu/home/index.html) at [New York University](https://www.nyu.edu/). 
 Previously, I received my bachelor’s degree in computer science from [Tongji University](https://en.tongji.edu.cn/).
 I've spent time at [NLC Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) in [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (working with [Lei Cui](https://www.microsoft.com/en-us/research/people/lecu/)), and [Microsoft Cognitive Services Research Group](https://www.microsoft.com/en-us/research/group/cognitive-services-research/) (working with [Chenguang Zhu](https://www-cs.stanford.edu/people/cgzhu/) and [Yang Liu](https://nlp-yang.github.io/)), and [Westlake University](https://en.westlake.edu.cn/) (working with Prof. [Yue Zhang](https://frcchang.github.io/)).
 
-My research interests include Deep Learning in NLP, Knowledge-based NLP, and Natural Language Generation. I always pursue the balance of simplicity and effectiveness in NLP. I am open to academic collaborations and please drop me an email if you are interested in collaborating with me.
+My research interests include deep learning methods for NLP, knowledge-enhanced NLP, and making large-scale language models more practical, efficient, and reliable. I always favor and pursue the balance of simplicity and effectiveness in NLP. I am open to academic collaborations and please drop me an email if you are interested in collaborating with me.
 
 ##### **Service**
-- PC Member / Reviewer: [COLING 2022](https://coling2022.org/), [ACL Rolling Review](https://aclrollingreview.org/) (Oct. 2021 - Present), [EMNLP 2021](https://2021.emnlp.org/), [ACL 2021](https://2021.aclweb.org/), [COLING 2020](https://coling2020.org/)
+- PC Member / Reviewer: [NeurIPS 2023](https://nips.cc/), [ALC 2023](https://2023.aclweb.org/), [AAAI 2023](https://aaai-23.aaai.org/), [EMNLP 2023](https://2022.emnlp.org/), [COLING 2022](https://coling2022.org/), [ACL Rolling Review](https://aclrollingreview.org/) (Oct. 2021 - Present), [EMNLP 2021](https://2021.emnlp.org/), [ACL 2021](https://2021.aclweb.org/), [COLING 2020](https://coling2020.org/)
 - Volunteer: [ACL 2020](https://acl2020.org/)
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
