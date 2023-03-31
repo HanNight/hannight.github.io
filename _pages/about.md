@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 Hi! I am an incoming Ph.D. student at [University of North Carolina at Chapel Hill](https://www.unc.edu/), supervised by [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/).
-Now, I am a MS student at [Computer Science Department](https://cs.nyu.edu/home/index.html) at [New York University](https://www.nyu.edu/). 
+Now, I am a master's student at [Computer Science Department](https://cs.nyu.edu/home/index.html) at [New York University](https://www.nyu.edu/). 
 Previously, I received my bachelor’s degree in computer science from [Tongji University](https://en.tongji.edu.cn/).
 I've spent time at [NLC Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) in [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (working with [Lei Cui](https://www.microsoft.com/en-us/research/people/lecu/)), and [Microsoft Cognitive Services Research Group](https://www.microsoft.com/en-us/research/group/cognitive-services-research/) (working with [Chenguang Zhu](https://www-cs.stanford.edu/people/cgzhu/) and [Yang Liu](https://nlp-yang.github.io/)), and [Westlake University](https://en.westlake.edu.cn/) (working with Prof. [Yue Zhang](https://frcchang.github.io/)).
 
