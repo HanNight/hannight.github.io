@@ -8,7 +8,7 @@ profile:
   align: right
   image: hw_pic.jpg
   info: >
-    <span class="post-description" style="font-size: 0.875rem;"><i class="fas fa-envelope ai-fw"></i> h${lastname} [at] nyu.edu </span><br>
+    <span class="post-description" style="font-size: 0.875rem;"><i class="fas fa-envelope ai-fw"></i> hwang [at] cs.unc.edu </span><br>
     <span class="post-description" style="font-size: 0.875rem;"><a href="https://scholar.google.com/citations?user=xA8AYqkAAAAJ&hl=en&oi=sra" target="_blank" title="Google_Scholar"><i class="ai ai-google-scholar ai-fw"></i> Google Scholar </a></span><br>
     <span class="post-description" style="font-size: 0.875rem;"><a href="https://www.semanticscholar.org/author/Han-Wang/144407394" target="_blank" title="Semantic_Scholar"><i class="ai ai-semantic-scholar ai-fw"></i> Semantic Scholar </a></span><br>
     <span class="post-description" style="font-size: 0.875rem;"><a href="https://github.com/HanNight" target="_blank" title="GitHub"><i class="fab fa-github ai-fw"></i> Github </a></span><br>
