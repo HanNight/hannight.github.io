@@ -20,15 +20,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a first-year Ph.D. student at [University of North Carolina at Chapel Hill](https://www.unc.edu/), supervised by [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/).
+Hi! I am a second-year Ph.D. student at [University of North Carolina at Chapel Hill](https://www.unc.edu/), supervised by [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/).
 
-I've spent time at [NLC Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) in [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (working with [Lei Cui](https://www.microsoft.com/en-us/research/people/lecu/)), and [Microsoft Cognitive Services Research Group](https://www.microsoft.com/en-us/research/group/cognitive-services-research/) (working with [Chenguang Zhu](https://www-cs.stanford.edu/people/cgzhu/) and [Yang Liu](https://nlp-yang.github.io/)), and [Westlake University](https://en.westlake.edu.cn/) (working with Prof. [Yue Zhang](https://frcchang.github.io/)). 
+I've spent time at [Amazon](https://www.amazon.science/) (working with [Rinat Khaziev](https://www.linkedin.com/in/rinat-khaziev)), [NLC Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) in [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (working with [Lei Cui](https://www.microsoft.com/en-us/research/people/lecu/)), [Microsoft Cognitive Services Research Group](https://www.microsoft.com/en-us/research/group/cognitive-services-research/) (working with [Chenguang Zhu](https://www-cs.stanford.edu/people/cgzhu/) and [Yang Liu](https://nlp-yang.github.io/)), and [Westlake University](https://en.westlake.edu.cn/) (working with Prof. [Yue Zhang](https://frcchang.github.io/)). 
 Previously, I received my master's degree from [New York University](https://www.nyu.edu/) and bachelor’s degree from [Tongji University](https://en.tongji.edu.cn/).
 
 My research interests include deep learning methods for NLP, knowledge-enhanced NLP, and making large-scale language models more practical, efficient, and reliable. I always favor and pursue the balance of simplicity and effectiveness in NLP. I am open to academic collaborations and please drop me an email if you are interested in collaborating with me.
 
 ##### **Service**
-- PC Member / Reviewer: ACL (2020-2024), EMNLP (2021-2023), NAACL (2024), COLM (2024), NeurIPS (2023-2024), AAAI (2023-2024), COLING (2020, 2022), ACL Rolling Review (2021 - Present)
+- PC Member / Reviewer: ACL (2020-2024), EMNLP (2021-2023), NAACL (2024), COLM (2024), NeurIPS (2023-2024), AAAI (2023-2024), COLING (2020, 2022, 2024), ACL Rolling Review (2021 - Present)
 <!-- [AAAI 2024](https://aaai-24.aaai.org/), [EMNLP 2023](https://2023.emnlp.org/), [NeurIPS 2023](https://nips.cc/), [ACL 2023](https://2023.aclweb.org/), [AAAI 2023](https://aaai-23.aaai.org/), [EMNLP 2022](https://2022.emnlp.org/), [COLING 2022](https://coling2022.org/), [ACL Rolling Review](https://aclrollingreview.org/) (Oct. 2021 - Present), [EMNLP 2021](https://2021.emnlp.org/), [ACL 2021](https://2021.aclweb.org/), [COLING 2020](https://coling2020.org/) -->
 <!-- - Volunteer: [ACL 2020](https://acl2020.org/) -->
 
