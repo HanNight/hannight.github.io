@@ -92,7 +92,7 @@
       [<a href="http://arxiv.org/abs/{{ entry.arxiv }}" target="_blank">arXiv</a>]
     {% endif %}
     {% if entry.website %}
-      <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Website</a>
+      [<a href="{{ entry.website }}" target="_blank">Website</a>]
     {% endif %}
     {% if entry.supp %}
       {% if entry.supp contains '://' %}
@@ -123,9 +123,6 @@
       {% else %}
       <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Slides</a>
       {% endif %}
-    {% endif %}
-    {% if entry.website %}
-      <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Website</a>
     {% endif %}
     {% if entry.toappear %}
       <em>({{entry.toappear}})</em>
