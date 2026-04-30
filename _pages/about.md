@@ -8,11 +8,12 @@ profile:
   align: right
   image: hwang.jpg
   info: >
-    <span class="post-description" style="font-size: 0.875rem;"><i class="fas fa-envelope ai-fw"></i> hwang [at] cs.unc.edu </span><br>
-    <span class="post-description" style="font-size: 0.875rem;"><a href="https://scholar.google.com/citations?user=xA8AYqkAAAAJ&hl=en&oi=sra" target="_blank" title="Google_Scholar"><i class="ai ai-google-scholar ai-fw"></i> Google Scholar </a></span><br>
+    <span class="post-description" style="font-size: 0.875rem;"><i class="fa-solid fa-envelope ai-fw"></i> hwang [at] cs.unc.edu </span><br>
+    <span class="post-description" style="font-size: 0.875rem;"><a href="https://scholar.google.com/citations?user=xA8AYqkAAAAJ&hl=en&oi=sra" target="_blank" title="Google_Scholar"><i class="fa-brands fa-google-scholar ai-fw"></i> Google Scholar </a></span><br>
     <span class="post-description" style="font-size: 0.875rem;"><a href="https://www.semanticscholar.org/author/Han-Wang/144407394" target="_blank" title="Semantic_Scholar"><i class="ai ai-semantic-scholar ai-fw"></i> Semantic Scholar </a></span><br>
-    <span class="post-description" style="font-size: 0.875rem;"><a href="https://github.com/HanNight" target="_blank" title="GitHub"><i class="fab fa-github ai-fw"></i> Github </a></span><br>
-    <span class="post-description" style="font-size: 0.875rem;"><a href="https://twitter.com/HanWang98" target="_blank" title="Twitter"><i class="fab fa-twitter ai-fw"></i> Twitter </a></span><br>
+    <span class="post-description" style="font-size: 0.875rem;"><a href="https://github.com/HanNight" target="_blank" title="GitHub"><i class="fa-brands fa-github ai-fw"></i> Github </a></span><br>
+    <span class="post-description" style="font-size: 0.875rem;"><a href="https://www.linkedin.com/in/han-wang-888b87134/" target="_blank" title="LinkedIn"><i class="fa-brands fa-square-linkedin ai-fw"></i> LinkedIn </a></span><br>
+    <span class="post-description" style="font-size: 0.875rem;"><a href="https://x.com/HanWang98" target="_blank" title="Twitter"><i class="fa-brands fa-x-twitter ai-fw"></i> X (formerly Twitter) </a></span><br>
 
 
 news: true  # includes a list of news items
